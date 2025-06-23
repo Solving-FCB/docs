@@ -1,0 +1,6 @@
+---
+icon: images
+---
+
+# Photo Galleries
+
