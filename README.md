@@ -3,7 +3,7 @@ description: >-
   (Core and Related Publications, Working Papers, Policy Briefs, Research
   Reports, Presentations, Films, Media Coverage, Meetings and Workshops)
 icon: globe
-cover: .gitbook/assets/fcb-banner.png
+cover: .gitbook/assets/fcb-centered.png
 coverY: 0
 layout:
   cover:
