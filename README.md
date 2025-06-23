@@ -3,11 +3,25 @@ description: >-
   (Core and Related Publications, Working Papers, Policy Briefs, Research
   Reports, Presentations, Films, Media Coverage, Meetings and Workshops)
 icon: globe
+cover: .gitbook/assets/fcb-banner.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Solving-FCB Documentation
-
-***
 
 ### Solving-FCB: An Overview
 
