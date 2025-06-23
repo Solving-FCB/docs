@@ -17,6 +17,9 @@
   * [Presentations & Workshops](solving-fcb/all-presentations/presentations-and-workshops.md)
 * [Media Coverage](solving-fcb/media-coverage.md)
 * [Team](solving-fcb/team/README.md)
+  * [Scientific Directors](solving-fcb/team/scientific-directors/README.md)
+    * [Cheung, William](solving-fcb/team/scientific-directors/cheung-william.md)
+    * [Sumaila, U. Rashid](solving-fcb/team/scientific-directors/sumaila-u.-rashid.md)
   * [Solving-FCB Team](solving-fcb/team/solving-fcb-team/README.md)
     * [Asiedu, Berchie](solving-fcb/team/solving-fcb-team/asiedu-berchie.md)
     * [Bianucci, Laura](solving-fcb/team/solving-fcb-team/bianucci-laura.md)
@@ -81,9 +84,6 @@
     * [Akpalu, Wisdom](solving-fcb/team/solving-fcb-team/akpalu-wisdom.md)
     * [Akwetey, Margaret](solving-fcb/team/solving-fcb-team/akwetey-margaret.md)
     * [Alkemade, Rob](solving-fcb/team/solving-fcb-team/alkemade-rob.md)
-  * [Scientific Directors](solving-fcb/team/scientific-directors/README.md)
-    * [Cheung, William](solving-fcb/team/scientific-directors/cheung-william.md)
-    * [Sumaila, U. Rashid](solving-fcb/team/scientific-directors/sumaila-u.-rashid.md)
 
 ***
 
