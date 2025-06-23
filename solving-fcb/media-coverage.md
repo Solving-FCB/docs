@@ -4,7 +4,7 @@ icon: tv
 
 # Media Coverage
 
-#### 2025
+### 2025
 
 * Jun 09. [Race to the bottom? The dangers of deep-sea mining. France24](https://www.france24.com/en/tv-shows/the-debate/20250609-race-to-the-bottom-the-dangers-of-deep-sea-mining). (Debate)
 * May 21. [Sind Pläne für Tiefseebergbau ökonomisch sinnvoll?](https://www.ndr.de/nachrichten/info/Sind-Plaene-fuer-Tiefseebergbau-oekonomisch-sinnvoll,audio1875872.html) Ndr.de.
@@ -17,7 +17,7 @@ icon: tv
 * Feb 8. [Research Agency Trains Postgraduate Students on Climate Biodiversity](https://von.gov.ng/council-trains-postgraduate-students-on-climate-biodiversity-in-west-africa/). VON.gov.ng.
 * Jan 15. [WTO fish subsidy negotiations may not reach deal until at least 2026, analysts warn](https://www.seafoodsource.com/news/supply-trade/wto-fish-subsidy-negotiations-may-not-reach-deal-until-at-least-2026-analysts-warn). Seafood Source.
 
-#### **2024**
+### **2024**
 
 * Oct 31. [Global North’s Growing Appetite for Farmed Salmon Imperils Communities’ Access to Local Fish](https://www.perishablenews.com/seafood/global-norths-growing-appetite-for-farmed-salmon-imperils-communities-access-to-local-fish/). Perishable News.
 * Oct 18. [Global North’s Growing Appetite for Farmed Salmon Imperils Communities’ Access to Local Fish](https://www.webwire.com/ViewPressRel.asp?aId=328436). WebWire.
@@ -93,7 +93,7 @@ icon: tv
 * Jan 2. [Norway’s deep-sea mining turn dismays experts](https://chinadialogueocean.net/en/conservation/norways-deep-sea-mining-turn-dismays-experts/). China Dialogue Ocean.
 * Jan 2. [New Magazine lists Ruto among 100 most influential Africans](https://nairobinews.nation.africa/new-magazine-lists-ruto-among-100-most-influential-africans/). Nairobi News.
 
-#### **2023**
+### **2023**
 
 * Dec 16. [The COP28 Climate Change Conference included "breaking away from fossil fuels" for the first time in the conclusion of the conference](https://www.youtube.com/watch?v=66Z3DLGYVUE). TVBS Wen Qian's World Weekly. (William Cheung @ 11.42)
 * Dec 14. [Did the tides turn for oceans at COP28? Climate summit draws mixed reviews](https://news.mongabay.com/2023/12/did-the-tides-turn-for-oceans-at-cop28-climate-summit-draws-mixed-reviews/). Mongabay.
@@ -141,7 +141,7 @@ icon: tv
 * Jan 31. [Rashid Sumaila named as 2022 AAAS Fellow](https://solvingfcb.org/2023/01/31/dr-rashid-sumaila-named-as-2022-aaas-fellow/). SolvingFCB.org.
 * Jan 31. [UBC fisheries researcher named 2022 AAAS fellow](https://science.ubc.ca/news/ubc-fisheries-researcher-named-2022-aaas-fellow). UBC Science.
 
-#### **2022**
+### **2022**
 
 * Nov 29. [Aquaculture is not the solution to overfishing](https://www.geomar.de/en/news/article/aquaculture-is-not-the-solution-to-overfishing). Geomar.de.
 * Nov 23. [Can wild and farmed fish co-exist?](https://biv.com/article/2022/11/can-wild-and-farmed-fish-co-exist)com.
