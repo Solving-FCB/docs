@@ -7,22 +7,13 @@ icon: globe
 
 # Solving-FCB Documentation
 
-## SUMMARY
+***
 
-Accurate as of 04/28/25.
+### Solving-FCB: An Overview
 
-| Presentations                                                                                                                              | 18  | 61    |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | --- | ----- |
-| Interviews (broadcast or text)                                                                                                             | 5   | 23    |
-| Peer-reviewed journal articles (open access)                                                                                               | 25  | 9     |
-| Peer-reviewed journal articles (subscription based)                                                                                        |     | 6     |
-| Journal articles – Related publications (produced by our researchers and related to our mandate but not funded by SSHRC project funds):    |     | >495  |
-| Edited journal issues                                                                                                                      |     | 0     |
-| Books (including edited books)                                                                                                             |     | 0     |
-| Book chapters                                                                                                                              |     | 0     |
-| Entries (dictionary and encyclopedia)                                                                                                      |     | 0     |
-| Conference publications                                                                                                                    | 18  | 2     |
-| Articles in popular media                                                                                                                  | 5   | 187   |
-| Reports, briefs, and other forms of grey literature                                                                                        | 3   | 10    |
-| Artistic performances                                                                                                                      | 1   | 1     |
-| Other (specify: Newsletters)                                                                                                               | 9   | 3     |
+**Solving the Sustainability Challenges at the Food‑Climate‑Biodiversity Nexus (Solving‑FCB)** is a six‑year partnership, funded by the Social Sciences and Humanities Research Council of Canada, as well as in-kind contributions from participating institutions, uniting top scholars and practitioners from academia, inter‑governmental bodies, and NGOs. The initiative aims to tackle complex, interconnected global challenges at the intersection of food security, climate change, and biodiversity.
+
+* **Objective**: Generate actionable insights by analyzing these overlapping systems through interdisciplinary research and real‑world case studies .
+* **Approach**: Employs global case studies, expert interviews, modeling, and policy engagement, delivered via publications, public events/presentations, and online media.
+* **Contributors & Partners**: In addition to co-directors Dr. William Cheung and Dr. Rashid Sumaila, based at the University of British Columbia, there are over 60 international team members and 23 partner organizations and institutions.
+
