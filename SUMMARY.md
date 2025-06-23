@@ -1,9 +1,12 @@
 # Table of contents
 
+* [Solving-FCB Documentation](README.md)
+
 ## Overview
 
-* [Solving-FCB Documentation](README.md)
-  * [Summary of Outputs](overview/solving-fcb-documentation/summary-of-outputs.md)
+***
+
+* [Summary of Outputs](summary.md)
 
 ## Solving-FCB
 
