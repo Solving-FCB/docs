@@ -1,10 +1,21 @@
 ---
 icon: presentation-screen
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # All Presentations
 
-2025&#x20;
+### 2025&#x20;
 
 * Jun 11. **Cheung WWL**, **Sumaila UR**. Small but Powerful: Harnessing the diversity of small-scale fisheries – Green Zone. UN Oceans Conference 2025.
 * Jun 11. **Sumaila UR**. Ocean Action Panel 5: Fostering sustainable fisheries management including supporting small-scale fishers. Official Session. UN Oceans Conference 2025.
@@ -28,7 +39,7 @@ icon: presentation-screen
 * Jan 18 – Sumaila, UR. Manage blue wealth. Congreso Futuro 2025, Santiago, Chile.&#x20;
 * Jan – Cheung, WWL. Ecology Seminar. Scripps Institute of Oceanography, San Diego, USA.&#x20;
 
-2024&#x20;
+### 2024&#x20;
 
 * Dec 3 – Cheung, WWL. A.G. Huntsman Lecture. Bedford Institute of Oceanography, Halifax, Canada.&#x20;
 * Nov – Cheung, WWL. Re-envisioning the Governance and Management of Ocean Migratory Biodiversity Workshop. Dubai.&#x20;
@@ -62,7 +73,7 @@ icon: presentation-screen
 * Jan 24 – Sumaila, UR. Climate Crisis and Ocean Industries. US Senate Committee, Washington D.C.&#x20;
 * Jan 24 – Sumaila, UR. Deep Sea Mining Workshop. New York.&#x20;
 
-2023&#x20;
+### 2023&#x20;
 
 * Dec 14–15 – Cheung, WWL. Ocean Futures Scenarios and Pathways Workshop. Berlin, Germany.&#x20;
 * Dec 11 – Sumaila, UR. Infinity Fish. COP28 Ocean Pavilion.&#x20;
@@ -85,7 +96,7 @@ icon: presentation-screen
 * Jan 18–20 – Cheung, WWL. Congreso Futuro 2023. Chile.&#x20;
 * Jan 12 – Cheung, WWL. Bevan Series Lecture. University of Washington.&#x20;
 
-2022&#x20;
+### 2022&#x20;
 
 * Dec 14 – Cheung, WWL. COP15 Biodiversity Webinar: Fish are Carbon Engineers. (virtual)&#x20;
 * Nov – Cheung, WWL. FAO Spotlight on Coastal Areas in SIDS at COP27. (virtual)&#x20;
@@ -101,9 +112,3 @@ icon: presentation-screen
 * Jun 9 – Cheung, WWL & Sumaila, UR. Genome BC Forum.&#x20;
 * Jun 8 – Sumaila, UR. Infinity Fish for a Sustainable Blue Economy. Vatican Conference.&#x20;
 * May – Cheung, WWL. BECI Science Workshop. (virtual)&#x20;
-
-Meetings, Workshops, Webinars (Core FCB - Organized)&#x20;
-
-* 10 – 13 February, 2025. Solving-FCB 2025 Meeting & Conference. Universidad de Costa Rica, San Pedro Montes de Oca, San José, Costa Rica&#x20;
-* 21 Dec, 2024. Thinking Solutions, Think Small-Scale Fisheries. Joint Webinar held between Too Big To Ignore and Solving-FCB. University of British Columbia, Canada.&#x20;
-* Feb 27 – Mar 1, 2023. SolvingFCB Meeting & Workshop. Earth Sciences Building, University of British Columbia &#x20;
