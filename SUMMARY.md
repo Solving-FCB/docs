@@ -90,7 +90,8 @@
 
 ## Case Studies
 
-* [🇨🇳 China](case-studies/canada.md)
+* [🇨🇳 China](case-studies/china/README.md)
+  * [Case Study Overview](case-studies/china/case-study-overview.md)
 * [🇨🇦 Canada](case-studies/china.md)
 * [🇨🇷 Costa Rica](case-studies/costa-rica.md)
 * [🌍 Ghana & Nigeria](case-studies/ghana-and-nigeria.md)
