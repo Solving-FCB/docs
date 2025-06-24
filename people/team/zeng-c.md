@@ -26,7 +26,7 @@ School of Oceanography, Shanghai Jiao Tong University
 
 **Bio**
 
-Dr. Cong Zeng is a marine biologist focusing on sustainable aquaculture development and biodiversity monitoring. He employs genetic tools like eDNA metabarcoding to track fish communities and aquaculture species dynamics. His recent studies include the status and development pathways of carangid aquaculture and environmental DNA monitoring in both freshwater and marine ecosystems [researchgate.net+9researchgate.net+9researchgate.net+9](https://www.researchgate.net/profile/Cong-Zeng-3?utm_source=chatgpt.com).
+Dr. Cong Zeng is a marine biologist focusing on sustainable aquaculture development and biodiversity monitoring. He employs genetic tools like eDNA metabarcoding to track fish communities and aquaculture species dynamics. His recent studies include the status and development pathways of carangid aquaculture and environmental DNA monitoring in both freshwater and marine ecosystems.
 
 **Links**
 
