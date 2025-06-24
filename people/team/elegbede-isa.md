@@ -35,5 +35,5 @@ Contributes interdisciplinary expertise on marine sustainability, policy, and ec
 #### Links
 
 * [ResearchGate](https://www.researchgate.net/profile/Isa_Elegbede)
-* [Google Scholar](https://scholar.google.com/citations?user=6U4qU8kAAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?hl=en\&user=gfzsoWQAAAAJ)
 * [Brandenburg University of Technology Cottbus-Senftenberg](https://www.b-tu.de/fg-umweltmanagement/team/dr-isa-elegbede)

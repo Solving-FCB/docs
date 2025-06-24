@@ -36,7 +36,7 @@ Contributes modeling expertise to understand climate impacts on coastal biogeoch
 
 #### Links
 
-* [Google Scholar Profile](https://scholar.google.com/citations?user=L-C6qUIAAAAJ\&hl=en)
+* [Google Scholar Profile](https://scholar.google.com/citations?user=SYZFNmUAAAAJ)
 * [Institutional Directory - CNR](https://www.igg.cnr.it/en/personale/laura-bianucci)
 * [ORCID Profile](https://orcid.org/0000-0002-4632-1321)
 * [ResearchGate Profile](https://www.researchgate.net/profile/Laura-Bianucci)
