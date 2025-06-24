@@ -223,11 +223,14 @@ Quantify the impact of climate change on seaweed cultivation production / ecosys
 
 ### **Team**
 
-{% content-ref url="../../people/team0/cao-ling.md" %}
-[cao-ling.md](../../people/team0/cao-ling.md)
+{% content-ref url="../../people/team/cao-ling.md" %}
+[cao-ling.md](../../people/team/cao-ling.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../people/team0/liu-yue.md" %}
-[liu-yue.md](../../people/team0/liu-yue.md)
+{% content-ref url="../../people/team/liu-yue.md" %}
+[liu-yue.md](../../people/team/liu-yue.md)
 {% endcontent-ref %}
 
+{% content-ref url="../../people/team/zeng-c.md" %}
+[zeng-c.md](../../people/team/zeng-c.md)
+{% endcontent-ref %}
