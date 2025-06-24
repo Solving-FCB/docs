@@ -1,5 +1,7 @@
 # Sumaila, U. Rashid
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia, Canada
@@ -13,6 +15,12 @@ r.sumaila@fisheries.ubc.ca
 Institute for the Oceans and Fisheries, UBC\
 Fisheries Economics Research Unit\
 OceanCanada Partnership
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/people/refs/heads/main/images/sumaila-ur.webp" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 
