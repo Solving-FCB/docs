@@ -108,7 +108,6 @@
 * [Video Gallery](video.md)
 * [Interviews/Podcasts](audio.md)
 
-## Group 4
+## Other
 
-* [Awards and Recognition](group-4/awards-and-recognition.md)
-* [Page 4](group-4/page-4.md)
+* [Awards and Recognition](other/awards-and-recognition.md)
