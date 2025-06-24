@@ -87,6 +87,7 @@
   * [Akpalu, Wisdom](people/solving-fcb-team/akpalu-wisdom.md)
   * [Akwetey, Margaret](people/solving-fcb-team/akwetey-margaret.md)
   * [Alkemade, Rob](people/solving-fcb-team/alkemade-rob.md)
+  * [Cong Zeng](people/team/zeng-c.md)
 
 ## Case Studies
 

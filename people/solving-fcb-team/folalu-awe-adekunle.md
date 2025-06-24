@@ -24,6 +24,6 @@ Contributes expertise in aquaculture health and diagnostics to support sustainab
 
 #### Links
 
-* [Google Scholar](https://scholar.google.com/citations?user=EVGDs1IAAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?hl=en\&user=EVGDs1IAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Folalu-Awe)
 * [Lagos State University Staff Profile](https://lasu.edu.ng/home/staff_profile_view.php?staff_id=folalu.awe@lasu.edu.ng)

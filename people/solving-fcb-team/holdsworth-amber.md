@@ -37,5 +37,5 @@ Amber Holdsworth is a physical scientist at Fisheries and Oceans Canada. Her res
 #### Links
 
 * [ResearchGate](https://www.researchgate.net/profile/Amber-Holdsworth)
-* [Google Scholar](https://scholar.google.ca/citations?user=S4h-P2kAAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?hl=en\&user=e1E9orUAAAAJ)
 * [GC Science Profile](https://profils-profiles.science.gc.ca/en/profile/amber-holdsworth)

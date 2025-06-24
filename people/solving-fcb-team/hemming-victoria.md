@@ -21,3 +21,5 @@ Decision quality enhancement; structured expert elicitation; transparent, just, 
 Contributes interdisciplinary expertise in decision science and risk analysis to support climate and justice-oriented decisions
 
 #### Links
+
+* [Google Scholar](https://scholar.google.com/citations?hl=en\&user=vOEhZJIAAAAJ)

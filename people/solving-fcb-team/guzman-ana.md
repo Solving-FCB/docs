@@ -24,3 +24,5 @@ Conservation\
 Small-scale fisheries
 
 #### Links
+
+* [Google Scholar](https://scholar.google.com/citations?user=WUKRl04AAAAJ)

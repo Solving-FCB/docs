@@ -19,5 +19,6 @@ Represents the University of Lagos in the Solving-FCB Partnership as part of the
 
 #### Links
 
+* [Google Scholar](https://scholar.google.com/citations?hl=en\&user=Tf4RNV4AAAAJ)
 * [Researchgate](https://www.researchgate.net/profile/Matthew-Ilori)
 * [Humboldt Foundation profile](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1067626/prof-dr-matthew-olusoji-ilori)

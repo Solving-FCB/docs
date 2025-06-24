@@ -20,4 +20,4 @@ He is the author of over 70 peer-reviewed journal articles, 4 books, and more th
 
 #### Links
 
-[Google Scholar profile](https://scholar.google.com/citations?user=tPirGbwAAAAJ\&hl=en\&oi=ao).
+[Google Scholar profile](https://scholar.google.com/citations?hl=en\&user=tPirGbwAAAAJ).
