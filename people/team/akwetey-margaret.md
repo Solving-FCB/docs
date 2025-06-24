@@ -24,7 +24,7 @@ Coordinator for the University of Cape Coast team
 #### Links
 
 * [ORCID](https://orcid.org/0000-0002-4821-5604)
-* [Google Scholar](https://scholar.google.com/citations?user=GKAaNisAAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?user=F-OylZUAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Margaret-Akwetey)
 * [UCC ACECoR](https://acecost.ucc.edu.gh/users/margaret-fafa-awushie-akwetey-phd)
 * [Staff Profile - University of Ghana](https://www.ug.edu.gh/sociology/staff/dr-margaret-akwetey)
