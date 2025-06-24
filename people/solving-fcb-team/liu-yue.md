@@ -19,5 +19,4 @@ Senior research assistant of the China case study
 #### Links
 
 * [ResearchGate](https://www.researchgate.net/profile/Yue_Liu182)
-* [Google Scholar](https://scholar.google.com/citations?user=Qv46kYQAAAAJ)
 * [Shanghai Jiao Tong University School of Oceanography](http://soo.sjtu.edu.cn/en/szllshow.php?id=125\&catid=75)

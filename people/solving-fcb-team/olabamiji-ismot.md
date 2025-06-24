@@ -22,4 +22,4 @@ Sustainable fisheries development, fish processing and preservation, aquaculture
 
 #### Role in Solving FCB
 
-Emerging contributor to the West Africa case study via Lagos State University fisheries initiatives.
+* Emerging contributor to the West Africa case study via Lagos State University fisheries initiatives.

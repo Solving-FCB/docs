@@ -16,5 +16,3 @@ Understanding climate change and the need for adaptation to future needs
 #### Role in Solving FCB
 
 On the Project Team for ɬaʔamɩn (Tla’amin) Nation Case Study
-
-#### Links

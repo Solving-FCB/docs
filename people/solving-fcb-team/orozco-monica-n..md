@@ -24,5 +24,5 @@ Collaborator on food security scenarios and nutritional assessment of fishers
 
 * [ResearchGate](https://www.researchgate.net/profile/Monica-Orozco-3)
 * [Solving FCB](https://solvingfcb.org/people/orozco-m/)
-* [Google Scholar](https://scholar.google.com/citations?user=yYgP_kEAAAAJ)
+* [Google Scholar](https://scholar.google.com/scholar?q=author:%22Orozco%20M%C3%B3nica%20N.%22)
 * [CeSSIAM](https://www.cessiam.org/equipo)

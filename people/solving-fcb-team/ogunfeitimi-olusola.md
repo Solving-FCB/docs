@@ -28,6 +28,6 @@ Contributor to the West Africa case study through research on pollution and ecot
 #### Links
 
 * [ORCID](https://orcid.org/0000-0002-5087-1272)
-* [Google Scholar](https://scholar.google.com/citations?user=Hh9z0RgAAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?user=UhRSDTIAAAAJ\&hl=en\&oi=ao)
 * [ResearchGate](https://www.researchgate.net/profile/Olusola-Ogunfeitimi)
 * [University of Lagos Staff Profile](https://unilag.edu.ng/?our-staff=ogunfeitimi-olusola-ayoola)

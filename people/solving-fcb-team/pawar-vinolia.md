@@ -29,5 +29,6 @@ Contributor, West Africa case study (Ghana)
 
 #### Links
 
+* [Google Scholar](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=author%3A%22pawar%22+AND+%22Vinolia%22\&btnG=)
 * [ACECoR Profile](https://acecor.ucc.edu.gh/)
 * [Institutional Profile - University of Cape Coast](https://ucc.edu.gh/staff/vinolia-pawar)

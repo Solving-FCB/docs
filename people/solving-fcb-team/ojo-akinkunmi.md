@@ -27,5 +27,5 @@ Research contributor to the West Africa case study; currently assessing the impa
 #### Links
 
 * [ResearchGate](https://www.researchgate.net/profile/Akinkunmi-Ojo)
-* [Google Scholar](https://scholar.google.com/citations?user=iU8lA9MAAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?user=-bchMIIAAAAJ\&hl=en\&oi=ao)
 * [Lagos State University Staff Profile](https://science.lasu.edu.ng/home/staff_profile_view.php?staff_id=akinkunmi.ojo@lasu.edu.ng)

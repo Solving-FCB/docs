@@ -27,3 +27,5 @@ Ecosystem-based, multi-species modeling for conservation and resource management
 Postdoctoral Researcher working under Dr. Tara Martin's Supervision.
 
 #### Links
+
+* [Google Scholar](https://scholar.google.com/citations?hl=en\&user=A_7F28YAAAAJ)

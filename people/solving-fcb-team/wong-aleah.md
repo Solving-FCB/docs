@@ -21,7 +21,6 @@ Develops trait-based frameworks to evaluate aquaculture's contribution to FCB go
 
 #### Links
 
-* [ResearchGate](https://www.researchgate.net/profile/Aleah-Wong)
+* [ResearchGate](https://www.researchgate.net/scientific-contributions/Aleah-Wong-2283221812)
 * [Solving FCB](https://solvingfcb.org/people/wong-a/)
-* [Google Scholar](https://scholar.google.com/citations?user=f7oBfSoAAAAJ)
 * [UBC Institute for the Oceans and Fisheries](https://oceans.ubc.ca/aleah-wong/)

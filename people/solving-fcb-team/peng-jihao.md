@@ -17,5 +17,3 @@ Aquaculture
 #### Role in Solving FCB
 
 Research assistant of the China case study
-
-#### Links

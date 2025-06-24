@@ -33,5 +33,5 @@ Leads the qualitative futures component; designs tools and facilitates workshops
 
 * [ResearchGate](https://www.researchgate.net/profile/Andrea-Marais-Potgieter)
 * [Solving FCB](https://solvingfcb.org/people/marais-potgieter-a/)
-* [Google Scholar](https://scholar.google.com/citations?user=F-l6R2AAAAAJ)
+* [Google Scholar](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Marais-Potgieter+A\&btnG=)
 * [Wits Staff Profile](https://www.wits.ac.za/staff/academic-a-z-listing/m/andreamarais-potgieterwitsacza/)

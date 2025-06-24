@@ -27,5 +27,5 @@ Contributor, Netherlands case study
 #### Links
 
 * [ResearchGate](https://www.researchgate.net/profile/Aaldrik-Tiktak)
-* [Google Scholar](https://scholar.google.com/citations?user=bWwVqZIAAAAJ)
+* [Google Scholar](https://scholar.google.com/citations?user=TDqWVcwAAAAJ\&hl=en\&oi=ao)
 * [PBL Netherlands Environmental Assessment Agency](https://www.pbl.nl/en/aboutpbl/employees/aaldrik-tiktak)

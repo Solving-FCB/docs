@@ -27,5 +27,4 @@ Brings global policy expertise and interdisciplinary leadership to support equit
 
 * [ResearchGate](https://www.researchgate.net/profile/Essam-Mohammed)
 * [Solving FCB](https://solvingfcb.org/people/mohammed-e/)
-* [Google Scholar](https://scholar.google.com/citations?user=h0E7fMIAAAAJ)
 * [WorldFish CGIAR](https://www.worldfishcenter.org/person/essam-yassin-mohammed)

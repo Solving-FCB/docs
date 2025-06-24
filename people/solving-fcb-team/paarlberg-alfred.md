@@ -28,6 +28,5 @@ Contributor to the Netherlands case study
 #### Links
 
 * [ORCID](https://orcid.org/0009-0003-3269-8060)
-* [Google Scholar](https://scholar.google.com/citations?user=2PPa9XoAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Alfred-Paarlberg)
 * [Wageningen University & Research](https://www.wur.nl/en/persons/alfred-ajf-paarlberg.htm)

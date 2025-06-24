@@ -37,3 +37,4 @@ Contributes climate modeling expertise and Arctic ecosystem assessments to suppo
 #### Links
 
 * [ResearchGate](https://www.researchgate.net/profile/Nadja-Steiner)
+* [Google Scholar](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Steiner%2C+Nadja\&btnG=)
