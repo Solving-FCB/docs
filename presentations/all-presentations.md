@@ -15,20 +15,20 @@ layout:
 
 # All Presentations
 
-### 2025&#x20;
+### 2025
 
-* Jun 11. **Cheung WWL**, **Sumaila UR**. Small but Powerful: Harnessing the diversity of small-scale fisheries – Green Zone. UN Oceans Conference 2025.
-* Jun 11. **Sumaila UR**. Ocean Action Panel 5: Fostering sustainable fisheries management including supporting small-scale fishers. Official Session. UN Oceans Conference 2025.
-* Jun 12. **Sumaila UR**. Let’s talk about the ocean and climate 1. Green Zone. UN Oceans Conference 2025.
-* Jun 12. **Sumaila UR**. Actions for SDG 14: Solutions. Green Zone. UN Oceans Conference 2025.
-* Jun 12. **Cheung WWL**. Panelist: Bridging Conservation Gaps: Integrating Indigenous Practices for Equitable Fisheries in Ghana. Green Zone. UN Oceans Conference 2025.
-* Jun 12. **Cheung WWL**. Ocean Action Panel 8: Promoting cooperation at regional and subregional levels. Official Session. UN Oceans Conference 2025.
-* Jun 12. **Cheung WWL**. Small-scale fishers: At the center of ocean governance and food security. Blue Zone. UN Oceans Conference 2025.
-* Jun 13. **Cheung WWL, Sumaila UR, Wong A**. Small-scale fishers: At the center of ocean governance and food security. Blue Zone. UN Oceans Conference 2025.
-* Jun 13. **Sumaila UR**. Sustainable fisheries: The role of trade from oceans to plate. Blue Zone. UN Oceans Conference 2025.
-* Jun 13. **Sumaila UR**. Bridging science, policy and action: Enhancing cross-sectoral collaboration. Blue Zone. UN Oceans Conference 2025.
-* Jun 13. **Sumaila UR**. WTO Agreement on Fisheries Subsidies and its Benefits. Green Zone. UN Oceans Conference 2025.
-* Jun 13. **Sumaila UR**. Panel: Ecosystem and Economic Benefits of Reducing Harmful Subsidies. Blue Zone event at the UN Oceans Conference 2025.
+* Jun 13. **Sumaila UR.** Panel: Ecosystem and Economic Benefits of Reducing Harmful Subsidies. Blue Zone event at the UN Oceans Conference 2025.
+* Jun 1&#x33;**. Sumaila UR.** WTO Agreement on Fisheries Subsidies and its Benefits. Green Zone. UN Oceans Conference 2025.
+* Jun 13. **Sumaila UR.** Bridging science, policy and action: Enhancing cross-sectoral collaboration. Blue Zone. UN Oceans Conference 2025.
+* Jun 13. **Sumaila UR.** Sustainable fisheries: The role of trade from oceans to plate. Blue Zone. UN Oceans Conference 2025.
+* Jun 13. **Cheung WWL.** Small-scale fishers: At the center of ocean governance and food security. Blue Zone. UN Oceans Conference 2025.
+* Jun 12. **Cheung WWL.** Small-scale fishers: At the center of ocean governance and food security. Blue Zone. UN Oceans Conference 2025.
+* Jun 12. **Cheung WWL.** Ocean Action Panel 8: Promoting cooperation at regional and subregional levels. Official Session. UN Oceans Conference 2025.
+* Jun 12. **Cheung WWL.** Panelist: Bridging Conservation Gaps: Integrating Indigenous Practices for Equitable Fisheries in Ghana. Green Zone. UN Oceans Conference 2025.
+* Jun 12. **Sumaila UR.** Actions for SDG 14: Solutions. Green Zone. UN Oceans Conference 2025.
+* Jun 12. **Sumaila UR.** Let’s talk about the ocean and climate 1. Green Zone. UN Oceans Conference 2025.
+* Jun 11. **Sumaila UR.** Ocean Action Panel 5: Fostering sustainable fisheries management including supporting small-scale fishers. Official Session. UN Oceans Conference 2025.
+* Jun 11. **Cheung WWL, Sumaila UR.** Small but Powerful: Harnessing the diversity of small-scale fisheries – Green Zone. UN Oceans Conference 2025.
 * May 13 – **Cheung, WWL**. Blue Transformations: Governance for the ocean-climate-biodiversity nexus. Keynote at IMBER FutureOceans3. [Link](https://imber.info/event/fo3/)&#x20;
 * Mar 11 – Sumaila, UR. Reimagining ocean economics. ʻĀkoʻakoʻa, Honolulu, Hawai’i.&#x20;
 * Mar 11 – Cheung, WWL. Fisheries and Aquaculture in the Face of Extreme Events. Ronald O. Ball Lecture.&#x20;
