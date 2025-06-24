@@ -1,5 +1,7 @@
 # Cheung, William
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia, Canada
@@ -11,6 +13,14 @@ w.cheung@fisheries.ubc.ca
 #### Affiliations
 
 Institute for the Oceans and Fisheries, UBC
+
+***
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/people/refs/heads/main/images/cheung-w.webp" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 
