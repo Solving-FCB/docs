@@ -35,7 +35,7 @@ Co-Principal Investigator, West Africa Case Study
 
 #### Links
 
-* [Google Scholar Profile](https://scholar.google.com/citations?user=f3TcSyQAAAAJ\&hl=en)
+* [Google Scholar](https://scholar.google.com/citations?hl=en\&user=f3TcSyQAAAAJ)
 * [Institutional Staff Profile](https://ucc.edu.gh/staff/denis-w-aheto/)
 * [LinkedIn Profile](https://www.linkedin.com/in/denis-worlanyo-aheto-phd-044b616b/?originalSubdomain=gh)
 * [ORCID Profile](https://orcid.org/0000-0001-5722-1363)
