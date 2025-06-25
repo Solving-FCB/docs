@@ -21,8 +21,8 @@
 ## People
 
 * [Scientific Directors](people/scientific-directors/README.md)
-  * [Cheung, William](people/scientific-directors/cheung-william.md)
-  * [Sumaila, U. Rashid](people/scientific-directors/sumaila-u.-rashid.md)
+  * [Cheung, William](people/scientific-directors/cheung-wwl.md)
+  * [Sumaila, U. Rashid](people/scientific-directors/sumaila-ur.md)
 * [Solving-FCB Team](people/team/README.md)
   * [Aheto, Denis](people/team/aheto-d.md)
   * [Akintola, Shehu](people/team/akintola-s.md)
@@ -76,8 +76,8 @@
   * [Sogbanmu, Temitope](people/team/sogbanmu-t.md)
   * [Steiner, Nadja](people/team/steiner-n.md)
   * [Tcheton, Sènankpon](people/team/tcheton-s.md)
-  * [Teh, Lydia](people/team/teh-lydia.md)
-  * [Teh, Louise](people/team/teh-l.md)
+  * [Teh, Lydia](people/team/teh-lcl.md)
+  * [Teh, Louise](people/team/teh-lsl.md)
   * [Thom, Brian](people/team/thom-brian.md)
   * [Tigchelaar, Michelle](people/team/tigchelaar-m.md)
   * [Tiktak, Aaldrik](people/team/tiktak-a.md)
