@@ -1,5 +1,7 @@
 # Martin, Tara
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -14,10 +16,12 @@ Professor, Department of Forest and Conservation Sciences, Faculty of Forestry, 
 Liber Ero Chair in Conservation\
 Founding Member, IBioS\
 Leader, Conservation Decisions Lab
+{% endcolumn %}
 
-#### Bio
-
-Tara Martin is a Professor in the Department of Forest and Conservation Sciences and the inaugural Liber Ero Chair in Conservation at UBC. She is a global leader in Conservation Decision Science, integrating predictive ecological models with decision theory to guide conservation action. Her team in the Conservation Decisions Lab collaborates closely with Indigenous communities, supporting research needs while centering Indigenous values, knowledge, and sovereignty. Her work focuses on restoring biodiversity and culture, understanding cumulative impacts, and driving transformational change in conservation.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/martin-t.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

@@ -1,14 +1,24 @@
 # Akintola, Shehu
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Lagos State University, Nigeria
 
 #### Affiliations
 
-Fisheries Department, Faculty of Science, Lagos State University\
-Centre Coordinator, Science Programme\
+Fisheries Department, Faculty of Science, Lagos State University
+\
+Centre Coordinator, Science Programme
+\
 Chairman, Nomadic Education Research Group
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/akintola-s.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

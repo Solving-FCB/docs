@@ -1,5 +1,7 @@
 # Elegbede, Isa
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Brandenburg University of Technology (BTU) Germany
@@ -8,11 +10,33 @@ Brandenburg University of Technology (BTU) Germany
 
 #### Affiliations
 
-UN Ocean Decade – Vision 2030, Expert Member\
-Ocean Enterprise Initiative / Marine Technology Society – Advisor\
-IUCN CEESP TGER – Deputy Chair\
-Future Earth Coasts – Fellow\
+UN Ocean Decade – Vision 2030, Expert Member
+\
+Ocean Enterprise Initiative / Marine Technology Society – Advisor
+\
+IUCN CEESP TGER – Deputy Chair
+\
+Future Earth Coasts – Fellow
+\
 Loyola Marymount University – Senior Personnel/Postdoctoral
+
+#### Affiliations
+
+UN Ocean Decade – Vision 2030, Expert Member
+\
+Ocean Enterprise Initiative / Marine Technology Society – Advisor
+\
+IUCN CEESP TGER – Deputy Chair
+\
+Future Earth Coasts – Fellow
+\
+Loyola Marymount University – Senior Personnel/Postdoctoral
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/elegbede-i.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

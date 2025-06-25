@@ -1,5 +1,7 @@
 # Folalu, Awe Adekunle
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Federal University of Agriculture, Abeokuta
@@ -7,10 +9,12 @@ Federal University of Agriculture, Abeokuta
 #### Affiliations
 
 Senior Lecturer, Department of Fisheries
+{% endcolumn %}
 
-#### Bio
-
-Dr. Awe Adekunle Folalu is a Senior Lecturer specializing in fish pathology and nutrition. He holds a Ph.D. in Fish Pathology from the Federal University of Agriculture, Abeokuta. His research focuses on how feeding regimes impact fish growth, organ systems, and haematological profiles. His current work explores the presence and identification of bacteria in the milt and eggs of _Clarias gariepinus_ (African catfish) using molecular tools to assess impacts on hatchability and egg quality.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/folalu-a.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

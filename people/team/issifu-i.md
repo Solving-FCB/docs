@@ -1,18 +1,24 @@
 # Issifu, Ibrahim
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
 
 #### Affiliations
 
-Fisheries Economics Research Unit\
-CoastMan Africa\
+Fisheries Economics Research Unit
+\
+CoastMan Africa
+\
 Institute for the Oceans and Fisheries, University of British Columbia
+{% endcolumn %}
 
-#### Bio
-
-Dr. Ibrahim Issifu is a Fisheries Economist and Postdoctoral Research Fellow at the University of British Columbia. He holds a Ph.D. and Master's from Nagoya University, Japan, and both a BA in Economics and MBA from the University of Ghana. With over a decade of experience in field-based research and global-scale data analysis, his work focuses on the intersection of social, economic, and ecological sustainability. He has contributed to major international initiatives, including the Blue Food Assessment for the 2021 UN Food Systems Summit, and collaborates with institutions such as Stanford University and the Stockholm Resilience Centre. His research supports fisheries management, climate adaptation, and food security, especially in West Africa.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/issifu-i.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

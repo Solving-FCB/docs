@@ -1,5 +1,7 @@
 # Ogunfeitimi, Olusola
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Lagos; Ecobullion Consultants, Nigeria
@@ -9,6 +11,12 @@ University of Lagos; Ecobullion Consultants, Nigeria
 Ecobullion Consultants – Ecotoxicological Assessor\
 Society for Environmental Toxicology and Pollution Mitigation – Associate Member\
 University of Lagos – MSc. Environmental Toxicology and Pollution Management
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/ogunfeitimi-o.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

@@ -1,10 +1,18 @@
 # Clarke, Tayler
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Affiliations
 
 Postdoc, Reef Systems Research Group, Ecology Department, Leibniz Center for Tropical Marine Research, Germany\
 Consultant, Institute for the Oceans and Fisheries, University of British Columbia, Canada\
 Early career researcher, Costa Rica case study (Solving FCB trainee group)
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/clarke-t.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

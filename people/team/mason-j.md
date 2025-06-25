@@ -1,13 +1,22 @@
 # Mason, Julia
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Environmental Defense Fund
 
 #### Affiliations
 
-Atkinson Center for a Sustainable Future\
+Atkinson Center for a Sustainable Future
+\
 NOAA Sea Grant (former fellow)
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/mason-j.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

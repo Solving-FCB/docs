@@ -1,5 +1,7 @@
 # Asiedu, Berchie
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Energy & Natural Resources, Ghana
@@ -8,10 +10,12 @@ University of Energy & Natural Resources, Ghana
 
 Centre for Climate Change and Gender Studies (3CGS) University of Energy & Natural Resources\
 Member, National Committee on Aquaculture, Ministry of Fisheries and Aquaculture Development, Ghana
+{% endcolumn %}
 
-#### Bio
-
-Dr. Berchie Asiedu is a fisheries and aquaculture scientist with over 10 years of experience. His expertise spans aquaculture, small-scale fisheries, value chain analysis, post-harvest operations, fisheries governance, and climate-related livelihood and food security issues. He has contributed to national aquaculture policy in Ghana and worked across several countries including Australia, Belgium, Canada, Italy, Mauritius, Nigeria, and the UK.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/asiedu-b.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

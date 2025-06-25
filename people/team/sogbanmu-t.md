@@ -1,5 +1,7 @@
 # Sogbanmu, Temitope
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Lagos, Nigeria
@@ -10,10 +12,12 @@ Senior Lecturer, Department of Zoology, University of Lagos\
 Lead, Evidence Use in Environmental Policymaking in Nigeria (EUEPiN) Project\
 Leader, Environmental Evidence Synthesis and Knowledge Translation (EESKT) Research Cluster\
 Member, Environmental Biotechnology and Ecotoxicology Research Group
+{% endcolumn %}
 
-#### Bio
-
-Dr. Temitope Sogbanmu is an Environmental Toxicologist with expertise in assessing and managing organic pollutants across environmental media. She has worked with federal and state ministries in Nigeria as an expert in environmental impact assessments and has led high-profile projects on environmental risk, sustainability, and policy. She actively supports evidence-informed decision-making and has received multiple awards, including the L’Oréal-UNESCO For Women in Science Award and the Africa Evidence Leadership Award. She supervises research at undergraduate and postgraduate levels and co-developed a prototype effluent treatment unit in 2018.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/sogbanmu-t.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

@@ -1,5 +1,7 @@
 # Olabamiji, Ismot
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Lagos State University
@@ -7,6 +9,12 @@ Lagos State University
 #### Affiliations
 
 Alumni, BSc in Fisheries and Aquatic Biology, Lagos State University
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/olabamiji-i.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

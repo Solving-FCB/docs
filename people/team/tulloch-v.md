@@ -1,5 +1,7 @@
 # Tulloch, Viv
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Department of Forest and Conservation Science, University of British Columbia
@@ -8,6 +10,12 @@ Department of Forest and Conservation Science, University of British Columbia
 
 * Conservation Decisions Lab
 * Banting Postdoctoral Fellowships Program
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/tulloch-v.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

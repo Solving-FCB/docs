@@ -1,5 +1,7 @@
 # Aheto, Denis
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Cape Coast
@@ -13,6 +15,12 @@ daheto@ucc.edu.gh
 Pro-Vice Chancellor, University of Cape Coast
 \
 Director, Centre for Coastal Management – Africa Centre of Excellence in Coastal Resilience (ACECoR)
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/aheto-d.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

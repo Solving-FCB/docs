@@ -1,5 +1,7 @@
 # Oloko, Ayodele
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -8,10 +10,12 @@ University of British Columbia
 
 Research Assistant, Fisheries Economics Research Unit, Institute for the Oceans and Fisheries, UBC\
 Biology Undergraduate Diversity Research Mentor, UBC
+{% endcolumn %}
 
-#### Bio
-
-Ayodele Oloko applies natural and social science methods to examine human-ecological interactions in rural communities where small-scale fishing and agriculture support livelihoods. Her work spans traditional ecological knowledge, gender, climate change adaptation, and fisheries sustainability. She has collaborated on major international research projects including GAFS, the Food Climate Biodiversity Project, and the Illuminating Hidden Harvests initiative. Her doctoral research explores how climate change and IUU fishing affect women and men in small-scale fisheries.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/oloko-a.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

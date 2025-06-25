@@ -1,5 +1,7 @@
 # Khan, Ahmed
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 African Development Bank Group
@@ -8,10 +10,12 @@ African Development Bank Group
 
 Coordinator, Blue Economy Flagship, African Development Bank Group\
 Fisheries Portfolio Lead, Feed Africa Strategy, AfDB
+{% endcolumn %}
 
-#### Bio
-
-Dr. Ahmed Khan is a fisheries economist with expertise in global seafood value chains, coastal governance, and climate change adaptation. With over a decade of experience, he specializes in applied policy research and sustainable natural resource management. His interdisciplinary work integrates spatial economics, environmental planning, and institutional analysis within the blue economy. A self-described global citizen, Ahmed emphasizes the inter-connectedness of life and thrives on partnerships across government, civil society, and the private sector. His work is widely published in leading journals such as _Ambio_, _Marine Policy_, and _Fisheries Research_.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/khan-a.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

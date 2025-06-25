@@ -1,5 +1,7 @@
 # Steiner, Nadja
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Fisheries and Oceans Canada (DFO)
@@ -10,10 +12,12 @@ Research Scientist, Institute of Ocean Sciences, DFO\
 Co-Chair, Biogeochemical Exchange Processes at Sea-Ice Interfaces (BEPSII)\
 Contributor, Canadian Earth System Model (CCCma)\
 Former member, OceanCanada Research Committee and NDIS Working Group
+{% endcolumn %}
 
-#### Bio
-
-Dr. Nadja Steiner is a research scientist at Fisheries and Oceans Canada specializing in modeling Arctic and North Pacific marine ecosystems and biogeochemical cycles. Her work focuses on the impacts of climate change, including sea-ice change, acidification, and the marine sulfur cycle. She collaborates on Earth system modeling and leads assessments for Arctic adaptation under national and international programs. Originally from Germany, she holds a PhD in sea ice modeling and has been a leading voice in Arctic system science since joining IOS in 2000.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/steiner-n.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

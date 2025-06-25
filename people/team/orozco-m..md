@@ -1,11 +1,19 @@
 # Orozco, Mónica N.
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Affiliations
 
 Nutrition Project Management Specialist, USAID-Guatemala\
 Universidad del Valle de Guatemala\
 Fundación Omar Dengo, Costa Rica\
 CeSSIAM, Guatemala
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/orozco-m..webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

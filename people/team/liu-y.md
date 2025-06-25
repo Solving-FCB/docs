@@ -1,5 +1,7 @@
 # Liu, Yue
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Xiamen University
@@ -7,6 +9,12 @@ Xiamen University
 #### Affiliations
 
 Postdoctoral Fellow, College of Ocean and Earth Science, Xiamen University
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/liu-y.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

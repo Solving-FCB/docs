@@ -1,29 +1,45 @@
 # Holdsworth, Amber
 
+{% columns %}
+{% column width="66.66666666666666%" %}
+#### Email
+
+amhold@uvic.ca
+
 #### Affiliations
 
 Fisheries and Oceans Canada, Institute of Ocean Sciences\
 University of Victoria (past)\
 University of Alberta (past)
+{% endcolumn %}
 
-#### Email
-
-amhold@uvic.ca
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/holdsworth-a.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 
-High-resolution Arctic and North Pacific modelling\
-Sea ice and ocean-climate interactions\
-Biogeochemical cycling\
+High-resolution Arctic and North Pacific modelling
+\
+Sea ice and ocean-climate interactions
+\
+Biogeochemical cycling
+\
 Climate change impacts
 
 #### Topics of interest
 
-Ocean circulation\
-Air-sea-ice processes\
-Internal waves\
-Turbulent collapse\
-Biogeochemical modellin\
+Ocean circulation
+\
+Air-sea-ice processes
+\
+Internal waves
+\
+Turbulent collapse
+\
+Biogeochemical modellin
+\
 Wavelet analysis
 
 #### Role in Solving FCB

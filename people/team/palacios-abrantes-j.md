@@ -1,5 +1,7 @@
 # Palacios Abrantes, Juliano
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -8,10 +10,12 @@ University of British Columbia
 
 Postdoctoral Fellow, Institute for the Oceans and Fisheries, UBC\
 Early Career Researcher group, Solving FCB
+{% endcolumn %}
 
-#### Bio
-
-Dr. Juliano Palacios Abrantes studies the effects of climate change on the distribution of marine species and the implications for fisheries management and conservation. His research focuses on transboundary fish stocks and the conflicts and management challenges they pose. He advocates for adaptive, equitable, and ecosystem-based governance strategies. Born in Brazil and raised in Mexico, he is particularly committed to improving ocean governance in Latin America.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/palacios-abrantes-j.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

@@ -1,5 +1,7 @@
 # Sánchez Jiménez, Astrid
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Costa Rica
@@ -8,10 +10,12 @@ University of Costa Rica
 
 Center for Research in Marine Sciences and Limnology (CIMAR) University of Costa Rica\
 Faculty of Geography, University of Costa Rica
+{% endcolumn %}
 
-#### Bio
-
-Dr. Astrid Sánchez Jiménez is a biologist and marine social-ecological systems researcher. She uses both quantitative and qualitative methods to examine the interactions between ecological and socioeconomic elements in coastal marine areas. Her work emphasizes equitable nature-based solutions, future scenario development, and food and nutrition security with a focus on plural values and gender inclusion.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/sanchez-jimenez-a.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

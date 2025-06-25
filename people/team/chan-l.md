@@ -1,5 +1,7 @@
 # Chan, Laurie
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Ottawa
@@ -8,10 +10,12 @@ University of Ottawa
 
 Canada Research Chair in Toxicology and Environmental Health\
 University of Ottawa
+{% endcolumn %}
 
-#### Bio
-
-Dr. Laurie Chan is a Canada Research Chair in Toxicology and Environmental Health. His research focuses on chemical contaminants in the environment and diet, especially among Indigenous Peoples, and their impacts on ecosystem and human health. He develops biochemical tools for risk assessment and aims to support environmental health through science-based policy and community engagement. His work bridges toxicology, environmental science, and Indigenous knowledge systems.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/chan-l.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

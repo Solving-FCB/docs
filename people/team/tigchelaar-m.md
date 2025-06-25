@@ -1,5 +1,7 @@
 # Tigchelaar, Michelle
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Stanford University
@@ -7,6 +9,12 @@ Stanford University
 #### Affiliations
 
 Research Scientist, Center for Ocean Solutions, Stanford University
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/tigchelaar-m.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

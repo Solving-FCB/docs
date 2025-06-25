@@ -1,5 +1,7 @@
 # Cao, Ling
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Shanghai Jiao Tong University
@@ -7,10 +9,12 @@ Shanghai Jiao Tong University
 #### Affiliations
 
 Institute of Oceanography, Shanghai Jiao Tong University
+{% endcolumn %}
 
-#### Bio
-
-Dr. Ling Cao holds a Ph.D. in Natural Resources and Environment from the University of Michigan, Ann Arbor. Trained as an agronomist and environmental scientist, her research sits at the intersection of food system sustainability and natural resource management. Her dissertation focused on evaluating the sustainability of emerging shrimp farming technologies, with applications for stakeholders in China and the U.S. She is a recipient of both the Chinese National Thousand Talents Program for Distinguished Young Scholars and the Shanghai Thousand Talents Program. Dr. Cao collaborates internationally on fisheries and aquaculture research, including with Roz Naylor’s group.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/cao-l.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

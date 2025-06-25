@@ -1,5 +1,7 @@
 # Birkel, Christian
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Costa Rica
@@ -7,10 +9,12 @@ University of Costa Rica
 #### Affiliations
 
 Department of Geography – Water and Global Change Observatory, University of Costa Rica
+{% endcolumn %}
 
-#### Bio
-
-Dr. Christian Birkel is a Professor and Researcher specializing in hydrology. His work focuses on measuring and modeling runoff generation and the storage of water and biogeochemical substances. He aims to understand dynamic catchment systems to support scientifically informed decision-making. His research applies to streamflow generation, tracer techniques, rainfall-runoff modeling, and the effects of environmental change—particularly in tropical regions—on hydrology and water resources.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/birkel-c.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

@@ -1,5 +1,7 @@
 # Satterfield, Terre
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -7,10 +9,12 @@ University of British Columbia
 #### Affiliations
 
 Professor of Culture, Risk and the Environment, Institute for Resources, Environment and Sustainability (IRES) UBC
+{% endcolumn %}
 
-#### Bio
-
-Dr. Terre Satterfield is a leading scholar in environmental social sciences, known for her interdisciplinary work on environmental values, cultural meanings, and risk perception. Her research investigates how people perceive environmental change and conservation impacts, particularly within Indigenous and local communities. She has supervised over 30 PhD and 10 Master's students, advancing methods that integrate cultural meaning with empirical measurement.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/satterfield-t.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

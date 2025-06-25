@@ -1,5 +1,7 @@
 # Ilori, Matthew O.
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Lagos, Nigeria
@@ -7,6 +9,12 @@ University of Lagos, Nigeria
 #### Affiliations
 
 Institute of Maritime Studies, University of Lagos
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/ilori-matthew-o..webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

@@ -1,5 +1,7 @@
 # Akpalu, Wisdom
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Ghana Institute of Management and Public Administration (GIMPA)
@@ -12,10 +14,12 @@ Partner, One Ocean Hub (OOH)\
 Co-opted Member, Technical Advisory Board (TAC) Marine Stewardship Council (MSC)\
 Former Associate Professor, State University of New York, Farmingdale\
 Former Research Fellow, UNU-WIDER
+{% endcolumn %}
 
-#### Bio
-
-Wisdom Akpalu is a Professor of Economics and Dean of the School of Research and Graduate Studies at GIMPA. He earned his Ph.D. from Gothenburg University, Sweden. He is Director of EfD-Ghana, funded by Sida, and collaborates with several international bodies including One Ocean Hub and MSC. He previously held academic roles in the U.S. and at UNU-WIDER. Since 2013, he has served as a resource person for AERC and was the inaugural president of AFAERE. His work spans environmental economics, marine ecosystems, and climate change.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/akpalu-w.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

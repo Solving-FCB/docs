@@ -1,5 +1,7 @@
 # Bianucci, Laura
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Dalhousie University
@@ -12,10 +14,12 @@ laura.bianucci@dal.ca
 
 Research Associate, Department of Oceanography, Dalhousie University\
 Institute of Ocean Sciences, Fisheries and Oceans Canada
+{% endcolumn %}
 
-#### Bio
-
-Dr. Laura Bianucci is a marine biogeochemical modeller with a background in physical oceanography. She works with coupled physical–ecosystem models to explore the cycling of carbon, oxygen, and nitrogen in the ocean and assess how marine ecosystems respond to climate change. Her research has addressed topics such as upwelling-driven deoxygenation, ocean acidification, and the effects of melting Greenland ice on the biogeochemistry of Atlantic Canada. She is currently involved with the Ocean Tracking Network, modeling species migration and biogeochemical vulnerability of the Canadian Atlantic shelf.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/bianucci-l.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

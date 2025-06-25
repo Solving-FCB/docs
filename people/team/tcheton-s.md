@@ -1,5 +1,7 @@
 # Tcheton, Sènankpon
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of the Witwatersrand
@@ -7,10 +9,12 @@ University of the Witwatersrand
 #### Affiliations
 
 School of Animal, Plant and Environmental Sciences, University of the Witwatersrand
+{% endcolumn %}
 
-#### Bio
-
-Sènankpon Tcheton is an environmental social scientist with transdisciplinary expertise in how societies engage with nature and address sustainability challenges. His research focuses on the role of Indigenous and Local Knowledge in shaping marine ecosystem futures, particularly in the Mono Transboundary Biosphere Reserve in West Africa.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/tcheton-s.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

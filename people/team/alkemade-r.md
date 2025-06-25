@@ -1,5 +1,7 @@
 # Alkemade, Rob
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Wageningen University and Research
@@ -8,10 +10,12 @@ Wageningen University and Research
 
 Wageningen University and Research\
 PBL Netherlands Environmental Assessment Agency
+{% endcolumn %}
 
-#### Bio
-
-Rob Alkemade has an agricultural background and studied plant disease management, communication, and statistics at Wageningen University. He briefly worked at Oxfam-Novib before earning a Ph.D. in marine ecology at the Netherlands Institute of Ecological Research. His expertise spans ecology, scenario analysis, and integrated modelling.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/alkemade-r.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

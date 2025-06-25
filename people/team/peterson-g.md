@@ -1,5 +1,7 @@
 # Peterson, Garry
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Stockholm University
@@ -8,6 +10,12 @@ Stockholm University
 
 Stockholm Resilience Centre, Stockholm University\
 Member, IPBES Task Force on Models & Scenarios
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/peterson-g.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

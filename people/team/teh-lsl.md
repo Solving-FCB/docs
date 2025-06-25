@@ -1,5 +1,7 @@
 # Teh, Louise
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -7,10 +9,12 @@ University of British Columbia
 #### Affiliations
 
 Fisheries Economics Research Unit, Institute for the Oceans and Fisheries, UBC
+{% endcolumn %}
 
-#### Bio
-
-Dr. Louise Teh is a researcher focused on the interactions between human communities and marine ecosystems, particularly in the context of fisheries sustainability. Her work spans global biodiversity assessments and socio-economic analyses of small-scale fisheries, especially in developing countries. She has contributed to projects on marine protected areas, turtle conservation, and climate adaptation.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/teh-lsl.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

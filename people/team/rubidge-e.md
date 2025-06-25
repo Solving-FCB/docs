@@ -1,5 +1,7 @@
 # Rubidge, Emily
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -9,10 +11,12 @@ University of British Columbia
 Department of Forest and Conservation Sciences, UBC\
 Lead Scientist, Seascape Ecology and Conservation Program\
 Fisheries and Oceans Canada
+{% endcolumn %}
 
-#### Bio
-
-Emily Rubidge is a Research Scientist focused on seascape ecology, systematic conservation planning, and ecological monitoring. She leads the Seascape Ecology and Conservation program and collaborates with Fisheries and Oceans Canada. Her work emphasizes understanding species responses to global change and improving conservation tools like marine protected areas. She holds a PhD from UC Berkeley, an MSc from UBC, and a BSc from the University of Victoria.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/rubidge-e.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

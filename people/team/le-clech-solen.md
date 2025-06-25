@@ -1,5 +1,7 @@
 # Le Clec’h, Solen
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Wageningen University
@@ -7,10 +9,12 @@ Wageningen University
 #### Affiliations
 
 Assistant Professor, Environmental Systems Analysis Group, Wageningen University
+{% endcolumn %}
 
-#### Bio
-
-Dr. Solen Le Clec’h is an assistant professor specializing in the spatial and temporal dynamics of socioecological systems. Her interdisciplinary research investigates how landscape structure, ecological functioning, public policies, and local practices interact across different scales. She focuses particularly on ecosystem services and the role of spatial analysis in environmental management.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/le-clech-solen.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

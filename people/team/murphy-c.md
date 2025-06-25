@@ -1,13 +1,22 @@
 # Murphy, Cait
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
 
 #### Affiliations
 
-UBC Sustainability Hub (Engagement Specialist)\
+UBC Sustainability Hub (Engagement Specialist)
+\
 Fraser Basin Council (Former Program Lead, Climate Resilience)
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/murphy-c.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

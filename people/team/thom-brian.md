@@ -1,5 +1,7 @@
 # Thom, Brian
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Victoria
@@ -7,6 +9,12 @@ University of Victoria
 #### Affiliations
 
 University of Victoria
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/thom-brian.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

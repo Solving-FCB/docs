@@ -1,5 +1,7 @@
 # Kleisner, Kristin
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Environmental Defense Fund
@@ -10,10 +12,12 @@ Associate Vice President, Oceans Science, Environmental Defense Fund\
 Former Joint Research Scientist, NOAA Northeast Fisheries Science Center & The Nature Conservancy\
 Former Postdoctoral Fellow, Sea Around Us Project, University of British Columbia\
 Commissioner, Boston City Conservation Commission
+{% endcolumn %}
 
-#### Bio
-
-Dr. Kristin Kleisner is the Associate Vice President of Oceans Science at the Environmental Defense Fund. Her work focuses on integrating spatial and rights-based management to improve global fisheries sustainability. Using bio-economic and climate models, she assesses how management strategies can increase fishery biomass, harvest, and profits, while also evaluating the impacts of climate change on fish stock distributions. Her previous roles include research with NOAA, The Nature Conservancy, and the Sea Around Us Project at UBC, where she developed indicators for ecosystem health and fisheries status.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/kleisner-k.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

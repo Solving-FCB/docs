@@ -1,5 +1,7 @@
 # Akwetey, Margaret
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Cape Coast
@@ -8,10 +10,12 @@ University of Cape Coast
 
 University of Cape Coast\
 Coordinator, UCC team for Solving FCB
+{% endcolumn %}
 
-#### Bio
-
-Dr. Margaret Fafa Akwetey holds a Ph.D. in Oceanography and Limnology (2020) from the University of Cape Coast, where she also earned an M.Phil. (2013) and B.Sc. (2009) in related fields. She specializes in benthic ecology and taxonomy, with research experience in macroinvertebrates across lagoons, estuaries, rivers, and coastal systems in Ghana. Her academic career began as a Research Assistant/Teaching Associate in 2013 and progressed to Lecturer in 2021. She teaches Biological Oceanography, Wetlands, Seashore Ecology, Malacology, Marine Biodiversity, and Marine Benthos.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/akwetey-m.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

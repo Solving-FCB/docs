@@ -1,5 +1,7 @@
 # Tiktak, Aaldrik
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Netherlands Environmental Assessment Agency
@@ -7,6 +9,12 @@ Netherlands Environmental Assessment Agency
 #### Affiliations
 
 * Netherlands Environmental Assessment Agency (PBL)
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/tiktak-a.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

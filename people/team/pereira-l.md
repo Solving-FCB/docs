@@ -1,5 +1,7 @@
 # Pereira, Laura
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of the Witwatersrand
@@ -8,10 +10,12 @@ University of the Witwatersrand
 
 Associate Professor, Global Change Institute, University of the Witwatersrand\
 Researcher, Stockholm Resilience Centre, Stockholm University
+{% endcolumn %}
 
-#### Bio
-
-Dr. Laura Pereira is an associate professor at the University of the Witwatersrand and a researcher at the Stockholm Resilience Centre. She leads projects on sustainability transformations, futures thinking, and food system governance. With a DPhil from Oxford, her experience spans Harvard, UCT, Stellenbosch, and Utrecht University. Her research explores the interface of traditional knowledge and innovation, futures methods, and transformative governance in developing contexts.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/pereira-l.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

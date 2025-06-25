@@ -1,5 +1,7 @@
 # Pawar, Vinolia
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Cape Coast
@@ -9,6 +11,16 @@ University of Cape Coast
 #### Affiliations
 
 MPhil Student, Integrated Coastal Zone Management, Africa Centre of Excellence in Coastal Resilience (ACECoR)
+
+#### Affiliations
+
+MPhil Student, Integrated Coastal Zone Management, Africa Centre of Excellence in Coastal Resilience (ACECoR)
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/pawar-v.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

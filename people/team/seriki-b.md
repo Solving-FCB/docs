@@ -1,5 +1,7 @@
 # Seriki, Bolanle
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Lagos
@@ -7,6 +9,12 @@ University of Lagos
 #### Affiliations
 
 * University of Lagos
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/seriki-b.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

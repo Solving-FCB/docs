@@ -1,5 +1,7 @@
 # Claudet, Joachim
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 National Centre for Scientific Research (CNRS)\
@@ -7,10 +9,19 @@ Centre de Recherches Insulaires et Observatoire de l'Environnement (CRIOBE)
 
 #### Affiliations
 
-CNRS Ocean Advisor\
-Director of "Sustainability of Socio-Ecological Systems – from Science to Action" at CRIOBE\
-Scientific council chair, Océan-Climat Platform and MedPAN\
+CNRS Ocean Advisor
+\
+Director of "Sustainability of Socio-Ecological Systems – from Science to Action" at CRIOBE
+\
+Scientific council chair, Océan-Climat Platform and MedPAN
+\
 Member, High-Level Panel for a Sustainable Ocean Economy, Blue Climate Initiative, and others
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/claudet-j.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

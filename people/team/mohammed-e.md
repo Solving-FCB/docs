@@ -1,5 +1,7 @@
 # Mohammed, Essam
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 WorldFish
@@ -10,10 +12,12 @@ Director General, WorldFish\
 Senior Director of Aquatic Food Systems, CGIAR\
 Former Global Lead for Climate Resilience and Environmental Sustainability, IIED\
 Former Head of Blue Economy, IIED
+{% endcolumn %}
 
-#### Bio
-
-Dr. Essam Yassin Mohammed is an environmental economist and fisheries scientist with over 19 years of international experience. He leads WorldFish and CGIAR’s aquatic food systems efforts, focusing on sustainable development through policy, science, and innovation. His work integrates economics, ocean governance, and environmental sustainability across Africa, Asia, Latin America, and Europe.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/mohammed-e.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

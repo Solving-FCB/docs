@@ -1,5 +1,7 @@
 # Teh, Lydia
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -7,10 +9,12 @@ University of British Columbia
 #### Affiliations
 
 Institute for the Oceans and Fisheries, UBC
+{% endcolumn %}
 
-#### Bio
-
-Dr. Lydia Teh is a researcher focused on the social, economic, and ecological dynamics of marine fisheries, particularly small-scale fisheries. Her interdisciplinary work spans human ecology, marine conservation, and participatory methods, with field experience in Malaysia and Fiji. She uses empirical and modeling approaches to inform practical management strategies in data-poor contexts.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/teh-lcl.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

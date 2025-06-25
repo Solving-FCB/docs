@@ -1,5 +1,7 @@
 # Froelicher, Thomas
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of Bern, Switzerland
@@ -7,6 +9,12 @@ University of Bern, Switzerland
 #### Affiliations
 
 Climate and Environmental Physics, University of Bern
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/froelicher-t.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

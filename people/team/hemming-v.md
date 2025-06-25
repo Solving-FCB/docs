@@ -1,5 +1,7 @@
 # Hemming, Victoria
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -7,10 +9,12 @@ University of British Columbia
 #### Affiliations
 
 University of British Columbia
+{% endcolumn %}
 
-#### Bio
-
-Dr. Victoria Hemming specializes in interdisciplinary methods from decision science, risk analysis, and behavioral sciences to guide nature-related decisions, with a focus on climate change and justice. Her work addresses decision quality, data gaps, and the decision-implementation divide. She emphasizes transparent communication, value-based analysis, and co-creation rooted in justice, equity, diversity, and inclusion. Her doctoral research at the University of Melbourne on structured expert elicitation earned the 2020 Chancellor’s Prize for Excellence and continues to influence decision-making globally.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/hemming-v.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

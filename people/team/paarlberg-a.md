@@ -1,5 +1,7 @@
 # Paarlberg, Alfred
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Wageningen University & Research
@@ -7,6 +9,12 @@ Wageningen University & Research
 #### Affiliations
 
 Wageningen University & Research
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/paarlberg-a.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

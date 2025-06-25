@@ -1,5 +1,7 @@
 # Marais-Potgieter, Andrea
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of the Witwatersrand
@@ -8,10 +10,12 @@ University of the Witwatersrand
 
 Postdoctoral Research Fellow, Global Change Institute, University of the Witwatersrand\
 Applied Ecopsychology Practitioner, International Ecopsychology Society
+{% endcolumn %}
 
-#### Bio
-
-Dr. Andrea Marais-Potgieter is a Conservation Psychologist with 20 years of experience conducting qualitative psychological research across 17 African countries. Her PhD research used mixed methods and Grounded Theory to explore individuals’ relationships with nature from a systems perspective, considering factors such as values, worldviews, and environmental attitudes. Her work addresses climate risk perception, community-driven conservation, ecopsychology, and the psychological dimensions of climate adaptation.
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/marais-potgieter-a.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

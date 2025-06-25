@@ -1,5 +1,7 @@
 # Wong, Aleah
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 University of British Columbia
@@ -7,6 +9,12 @@ University of British Columbia
 #### Affiliations
 
 Master’s Student, Institute for the Oceans and Fisheries, UBC
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/wong-al.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 

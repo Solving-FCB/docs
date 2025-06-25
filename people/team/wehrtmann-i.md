@@ -1,5 +1,7 @@
 # Wehrtmann, Ingo
 
+{% columns %}
+{% column width="66.66666666666666%" %}
 #### Institution
 
 Universidad de Costa Rica
@@ -10,6 +12,12 @@ School of Biology, Universidad de Costa Rica\
 Research Center of Marine Science and Limnology (CIMAR)\
 Research Center of Biodiversity and Tropical Ecology (CIBET)\
 Research Unit for Fisheries and Aquaculture (UNIP)
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/wehrtmann-i.webp" alt=""></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 #### Core work interests related to Solving FCB
 
