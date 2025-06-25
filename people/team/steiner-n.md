@@ -14,7 +14,7 @@ Contributor, Canadian Earth System Model (CCCma)\
 Former member, OceanCanada Research Committee and NDIS Working Group
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/steiner-n.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -16,7 +16,7 @@ Former Associate Professor, State University of New York, Farmingdale\
 Former Research Fellow, UNU-WIDER
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/akpalu-w.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -11,7 +11,7 @@ Shanghai Jiao Tong University
 Institute of Oceanography, Shanghai Jiao Tong University
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/cao-l.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -11,7 +11,7 @@ University of Victoria
 University of Victoria
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/thom-brian.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

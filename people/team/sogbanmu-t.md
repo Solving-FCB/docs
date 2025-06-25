@@ -14,7 +14,7 @@ Leader, Environmental Evidence Synthesis and Knowledge Translation (EESKT) Resea
 Member, Environmental Biotechnology and Ecotoxicology Research Group
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/sogbanmu-t.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

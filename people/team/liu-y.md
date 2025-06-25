@@ -11,7 +11,7 @@ Xiamen University
 Postdoctoral Fellow, College of Ocean and Earth Science, Xiamen University
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/liu-y.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

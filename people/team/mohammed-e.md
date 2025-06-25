@@ -14,7 +14,7 @@ Former Global Lead for Climate Resilience and Environmental Sustainability, IIED
 Former Head of Blue Economy, IIED
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/mohammed-e.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

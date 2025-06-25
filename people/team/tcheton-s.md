@@ -11,7 +11,7 @@ University of the Witwatersrand
 School of Animal, Plant and Environmental Sciences, University of the Witwatersrand
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/tcheton-s.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

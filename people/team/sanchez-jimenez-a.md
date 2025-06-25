@@ -12,7 +12,7 @@ Center for Research in Marine Sciences and Limnology (CIMAR) University of Costa
 Faculty of Geography, University of Costa Rica
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/sanchez-jimenez-a.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

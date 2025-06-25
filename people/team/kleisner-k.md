@@ -14,7 +14,7 @@ Former Postdoctoral Fellow, Sea Around Us Project, University of British Columbi
 Commissioner, Boston City Conservation Commission
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/kleisner-k.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

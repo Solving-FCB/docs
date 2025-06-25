@@ -12,7 +12,7 @@ Stockholm Resilience Centre, Stockholm University\
 Member, IPBES Task Force on Models & Scenarios
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/peterson-g.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

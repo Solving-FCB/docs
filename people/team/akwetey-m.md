@@ -12,7 +12,7 @@ University of Cape Coast\
 Coordinator, UCC team for Solving FCB
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/akwetey-m.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -13,7 +13,7 @@ Institute for the Oceans and Fisheries, UBC\
 Center for Ocean Solutions, Stanford University
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/wabnitz-c.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

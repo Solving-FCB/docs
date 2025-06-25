@@ -11,7 +11,7 @@ Lagos State University
 Alumni, BSc in Fisheries and Aquatic Biology, Lagos State University
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/olabamiji-i.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

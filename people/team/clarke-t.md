@@ -9,7 +9,7 @@ Consultant, Institute for the Oceans and Fisheries, University of British Columb
 Early career researcher, Costa Rica case study (Solving FCB trainee group)
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/clarke-t.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

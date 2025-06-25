@@ -12,7 +12,7 @@ Wageningen University and Research\
 PBL Netherlands Environmental Assessment Agency
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/alkemade-r.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

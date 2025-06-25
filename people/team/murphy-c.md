@@ -13,7 +13,7 @@ UBC Sustainability Hub (Engagement Specialist)
 Fraser Basin Council (Former Program Lead, Climate Resilience)
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/murphy-c.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -11,7 +11,7 @@ N/A, Independent researcher
 ɬaʔamɩn (Tla’amin) Nation
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/fediuk-k.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

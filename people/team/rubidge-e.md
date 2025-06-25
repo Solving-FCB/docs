@@ -13,7 +13,7 @@ Lead Scientist, Seascape Ecology and Conservation Program\
 Fisheries and Oceans Canada
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/rubidge-e.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

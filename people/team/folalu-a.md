@@ -11,7 +11,7 @@ Federal University of Agriculture, Abeokuta
 Senior Lecturer, Department of Fisheries
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/folalu-a.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -14,7 +14,7 @@ Research Center of Biodiversity and Tropical Ecology (CIBET)\
 Research Unit for Fisheries and Aquaculture (UNIP)
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/wehrtmann-i.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

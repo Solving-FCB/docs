@@ -13,7 +13,7 @@ Society for Environmental Toxicology and Pollution Mitigation – Associate Memb
 University of Lagos – MSc. Environmental Toxicology and Pollution Management
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/ogunfeitimi-o.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

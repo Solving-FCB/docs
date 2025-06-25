@@ -12,7 +12,7 @@ Department of Forest and Conservation Science, University of British Columbia
 * Banting Postdoctoral Fellowships Program
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/tulloch-v.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

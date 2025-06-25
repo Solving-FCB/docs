@@ -11,7 +11,7 @@ University of British Columbia
 Professor of Culture, Risk and the Environment, Institute for Resources, Environment and Sustainability (IRES) UBC
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/satterfield-t.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -15,7 +15,7 @@ Centre Coordinator, Science Programme
 Chairman, Nomadic Education Research Group
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/akintola-s.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

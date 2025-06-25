@@ -11,7 +11,7 @@ University of Costa Rica
 Department of Geography – Water and Global Change Observatory, University of Costa Rica
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/birkel-c.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -12,7 +12,7 @@ Coordinator, Blue Economy Flagship, African Development Bank Group\
 Fisheries Portfolio Lead, Feed Africa Strategy, AfDB
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/khan-a.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

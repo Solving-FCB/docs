@@ -12,7 +12,7 @@ Centro de Investigación en Ciencias del Mar y Limnología (CIMAR) University of
 * Universidad para la Cooperación Internacional (UCI)
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/villalobos-rojas-f.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

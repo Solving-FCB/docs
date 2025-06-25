@@ -33,7 +33,7 @@ Future Earth Coasts – Fellow
 Loyola Marymount University – Senior Personnel/Postdoctoral
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/elegbede-i.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

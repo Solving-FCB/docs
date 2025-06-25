@@ -11,7 +11,7 @@ University of Bern, Switzerland
 Climate and Environmental Physics, University of Bern
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/froelicher-t.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

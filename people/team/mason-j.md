@@ -13,7 +13,7 @@ Atkinson Center for a Sustainable Future
 NOAA Sea Grant (former fellow)
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/mason-j.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

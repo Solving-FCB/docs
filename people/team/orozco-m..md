@@ -10,7 +10,7 @@ Fundación Omar Dengo, Costa Rica\
 CeSSIAM, Guatemala
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/orozco-m..webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

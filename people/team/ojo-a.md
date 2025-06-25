@@ -11,7 +11,7 @@ Lagos State University
 Graduate Assistant, Department of Fisheries, Lagos State University
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/ojo-a.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

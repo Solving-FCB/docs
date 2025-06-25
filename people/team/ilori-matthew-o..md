@@ -11,7 +11,7 @@ University of Lagos, Nigeria
 Institute of Maritime Studies, University of Lagos
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/ilori-matthew-o..webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

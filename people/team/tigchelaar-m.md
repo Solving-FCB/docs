@@ -11,7 +11,7 @@ Stanford University
 Research Scientist, Center for Ocean Solutions, Stanford University
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/tigchelaar-m.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

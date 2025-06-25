@@ -18,7 +18,7 @@ Scientific council chair, Océan-Climat Platform and MedPAN
 Member, High-Level Panel for a Sustainable Ocean Economy, Blue Climate Initiative, and others
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/claudet-j.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

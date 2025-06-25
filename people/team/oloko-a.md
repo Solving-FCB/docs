@@ -12,7 +12,7 @@ Research Assistant, Fisheries Economics Research Unit, Institute for the Oceans 
 Biology Undergraduate Diversity Research Mentor, UBC
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/oloko-a.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -11,7 +11,7 @@ Wageningen University
 Assistant Professor, Environmental Systems Analysis Group, Wageningen University
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/le-clech-solen.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

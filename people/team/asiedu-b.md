@@ -12,7 +12,7 @@ Centre for Climate Change and Gender Studies (3CGS) University of Energy & Natur
 Member, National Committee on Aquaculture, Ministry of Fisheries and Aquaculture Development, Ghana
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/asiedu-b.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

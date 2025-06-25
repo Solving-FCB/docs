@@ -17,7 +17,7 @@ MPhil Student, Integrated Coastal Zone Management, Africa Centre of Excellence i
 MPhil Student, Integrated Coastal Zone Management, Africa Centre of Excellence in Coastal Resilience (ACECoR)
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/pawar-v.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -11,7 +11,7 @@ Netherlands Environmental Assessment Agency
 * Netherlands Environmental Assessment Agency (PBL)
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/tiktak-a.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

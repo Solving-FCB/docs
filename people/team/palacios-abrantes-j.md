@@ -12,7 +12,7 @@ Postdoctoral Fellow, Institute for the Oceans and Fisheries, UBC\
 Early Career Researcher group, Solving FCB
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/palacios-abrantes-j.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}

@@ -12,7 +12,7 @@ Postdoctoral Research Fellow, Global Change Institute, University of the Witwate
 Applied Ecopsychology Practitioner, International Ecopsychology Society
 {% endcolumn %}
 
-{% column %}
+{% column width="30%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/marais-potgieter-a.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}
