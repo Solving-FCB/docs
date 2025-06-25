@@ -18,7 +18,7 @@ Institute for the Oceans and Fisheries, UBC
 {% endcolumn %}
 
 {% column %}
-<figure><img src="https://raw.githubusercontent.com/Solving-FCB/people/refs/heads/main/images/cheung-w.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/cheung-w.webp" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
