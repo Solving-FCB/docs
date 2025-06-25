@@ -2,23 +2,33 @@
 
 {% columns %}
 {% column width="66.66666666666666%" %}
-#### Institution
+**Institution**
 
 University of British Columbia, Canada
 
-#### Email
+**Email**
 
 w.cheung@fisheries.ubc.ca
 
-#### Affiliations
+**Affiliations**
 
 Institute for the Oceans and Fisheries, UBC
-
-***
 {% endcolumn %}
 
 {% column %}
+
+
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/cheung-w.webp" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column width="66" %}
+
+{% endcolumn %}
+
+{% column %}
+
 {% endcolumn %}
 {% endcolumns %}
 
