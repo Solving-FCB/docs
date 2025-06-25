@@ -1,7 +1,7 @@
 # Pereira, Laura
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 University of the Witwatersrand

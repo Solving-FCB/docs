@@ -1,7 +1,7 @@
 # Akpalu, Wisdom
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 Ghana Institute of Management and Public Administration (GIMPA)

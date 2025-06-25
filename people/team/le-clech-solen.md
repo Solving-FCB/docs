@@ -1,7 +1,7 @@
 # Le Clec’h, Solen
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 Wageningen University

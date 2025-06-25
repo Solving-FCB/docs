@@ -1,7 +1,7 @@
 # Wehrtmann, Ingo
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 Universidad de Costa Rica

@@ -1,7 +1,7 @@
 # Tulloch, Viv
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 Department of Forest and Conservation Science, University of British Columbia

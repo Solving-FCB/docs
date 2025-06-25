@@ -1,7 +1,7 @@
 # Mohammed, Essam
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 WorldFish

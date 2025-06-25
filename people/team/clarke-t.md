@@ -1,7 +1,7 @@
 # Clarke, Tayler
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Affiliations
 
 Postdoc, Reef Systems Research Group, Ecology Department, Leibniz Center for Tropical Marine Research, Germany\

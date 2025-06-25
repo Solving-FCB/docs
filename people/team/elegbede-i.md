@@ -1,7 +1,7 @@
 # Elegbede, Isa
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 Brandenburg University of Technology (BTU) Germany

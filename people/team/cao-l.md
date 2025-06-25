@@ -1,7 +1,7 @@
 # Cao, Ling
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 Shanghai Jiao Tong University

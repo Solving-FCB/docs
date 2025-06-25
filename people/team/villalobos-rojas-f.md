@@ -1,7 +1,7 @@
 # Villalobos-Rojas, Fresia
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="70%" %}
 #### Institution
 
 Centro de Investigación en Ciencias del Mar y Limnología (CIMAR) University of Costa Rica

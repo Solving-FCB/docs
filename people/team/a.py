@@ -8,11 +8,17 @@ for md_file in md_dir.glob("*.md"):
     if md_file.name == "README.md":
         continue
 
-    with open(md_file, "r", encoding="utf-8") as f:
-        content = f.read()
+    content = md_file.read_text(encoding="utf-8")
 
+    # If already has column block, update width if needed
     if "{% columns %}" in content:
-        continue  # skip if already processed
+        updated = content.replace('{% column width="66.66666666666666%" %}', '{% column width="70%" %}')
+        if updated != content:
+            md_file.write_text(updated, encoding="utf-8")
+            print(f"🔁 Updated width in {md_file.name}")
+        else:
+            print(f"⏭ Already up-to-date: {md_file.name}")
+        continue
 
     split_marker = "#### Core work interests related to Solving FCB"
     if split_marker not in content:
@@ -29,7 +35,7 @@ for md_file in md_dir.glob("*.md"):
     email = extract_block("Email")
     affiliations = extract_block("Affiliations")
 
-    name = md_file.stem  # e.g. aheto-d
+    name = md_file.stem
     img_url = f"https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/{img_base}/{name}.webp"
 
     left = ""
@@ -41,7 +47,7 @@ for md_file in md_dir.glob("*.md"):
         left += f"#### Affiliations\n\n{affiliations}\n"
 
     columns_block = f"""{{% columns %}}
-{{% column width="66.66666666666666%" %}}
+{{% column width="70%" %}}
 {left.strip()}
 {{% endcolumn %}}
 
@@ -52,9 +58,8 @@ for md_file in md_dir.glob("*.md"):
 
 """
 
-    new_content = f"{top.strip().splitlines()[0]}\n\n{columns_block}#### Core work interests related to Solving FCB{bottom}"
+    header = top.strip().splitlines()[0]
+    new_content = f"{header}\n\n{columns_block}#### Core work interests related to Solving FCB{bottom}"
 
-    with open(md_file, "w", encoding="utf-8") as f:
-        f.write(new_content)
-
-    print(f"✅ Processed {md_file.name}")
+    md_file.write_text(new_content, encoding="utf-8")
+    print(f"✅ Inserted columns in {md_file.name}")
