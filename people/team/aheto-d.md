@@ -17,7 +17,7 @@ Pro-Vice Chancellor, University of Cape Coast
 Director, Centre for Coastal Management – Africa Centre of Excellence in Coastal Resilience (ACECoR)
 {% endcolumn %}
 
-{% column %}
+{% column width="33.33333333333333%" %}
 <figure><img src="https://raw.githubusercontent.com/Solving-FCB/docs/refs/heads/main/.img/aheto-d.webp" alt=""></figure>
 {% endcolumn %}
 {% endcolumns %}
