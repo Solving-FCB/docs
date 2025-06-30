@@ -18,7 +18,11 @@ layout:
     visible: true
 ---
 
-# 🇨🇳 China
+# China
+
+
+
+
 
 In China, the Partnership will examine the nexus of aquaculture expansion to increase seafood provision and carbon sequestration to conserve coastal biodiversity.
 
@@ -223,14 +227,6 @@ Quantify the impact of climate change on seaweed cultivation production / ecosys
 
 ### **Team**
 
-{% content-ref url="../../people/team/cao-ling.md" %}
-[cao-ling.md](../../people/team/cao-ling.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../people/team/liu-yue.md" %}
-[liu-yue.md](../../people/team/liu-yue.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../people/team/zeng-c.md" %}
-[zeng-c.md](../../people/team/zeng-c.md)
-{% endcontent-ref %}
+| ![](../../.gitbook/assets/cao-l.webp) | ![](../../.gitbook/assets/liu-y.webp) | ![](../../.gitbook/assets/zeng-c.webp) |
+| ------------------------------------- | ------------------------------------- | -------------------------------------- |
+| **Dr. Ling Cao**                      | **Dr. Yue Liu**                       | **Dr. Cong Zeng**                      |

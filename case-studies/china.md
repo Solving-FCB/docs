@@ -63,6 +63,8 @@ These provide key longitudinal background from dietary research, socio-ecologica
 
 ***
 
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href="../.gitbook/assets/treakle-a.webp">treakle-a.webp</a></td></tr></tbody></table>
+
 ### Team
 
 #### ![](https://solvingfcb.org/wp-content/uploads/april-linton.jpg)
@@ -182,7 +184,3 @@ For previous workshops created by Tla’amin Nation, please view the cultural aw
 Additionally, a framework of how to approach food, sustainability and biodiversity challenges will be co-developed with the Tla’amin Nation to support decision-making. Decision-making tools will be developed as part of these focus workshops and will be developed along with a synthesis of scenarios development.
 
 As the study is going underway, the results and methods will be communicated on both the Solving FCB and Tla’amin Nation websites.
-
-***
-
-Let me know if you want this exported as a `.md` file or broken into separate GitBook pages.

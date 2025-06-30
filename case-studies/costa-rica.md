@@ -1,2 +1,2 @@
-# 🇨🇷 Costa Rica
+# Costa Rica
 
