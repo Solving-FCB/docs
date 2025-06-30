@@ -2,6 +2,7 @@
 description: >-
   Article by Jacqueline Boivin with assistance from Dr. Yue Liu and Dr. William
   Cheung.
+hidden: true
 ---
 
 # Case Study Overview

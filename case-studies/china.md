@@ -1,6 +1,6 @@
 ---
 description: Canada Case Study
-cover: ../.gitbook/assets/solving-fcb-team-at-ucr-2025.jpg
+cover: ../.gitbook/assets/canada-hires.jpg
 coverY: 0
 layout:
   cover:
@@ -21,8 +21,6 @@ layout:
 # Canada
 
 The Canadian case-study for the Solving-FCB project is being led by Tla’amin Nation, who are directing questions around the process of envisioning a ‘desirable’ future in a way that reflects climate-adaptive fisheries.
-
-![](https://solvingfcb.org/wp-content/uploads/canada-hires-1024x644.jpg)
 
 Tla’amin Nation has articulated the broad strokes ‘desirable’ futures vision in their modern-day treaty [Final Agreement](https://www.tlaaminnation.com/home-page/final-agreement/), and are implementing this vision in part through the Tla’amin Nation’s 2023–2028 [Comprehensive Nation Plan](https://www.tlaaminnation.com/comprehensive-nation-plan/), Goal 19 (Lands and Resources) is to “improve Tla’amin Food Security”. In this work on self-determination are commitments to:
 

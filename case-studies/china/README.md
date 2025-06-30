@@ -1,5 +1,8 @@
 ---
-description: China Case Study
+description: >-
+  In China, the Partnership will examine the nexus of aquaculture expansion to
+  increase seafood provision and carbon sequestration to conserve coastal
+  biodiversity.
 cover: https://solvingfcb.org/wp-content/uploads/china-thumb.jpg
 coverY: 0
 layout:
@@ -20,19 +23,9 @@ layout:
 
 # China
 
+> ## Developing aquaculture for food, climate mitigation and biodiversity
 
-
-
-
-In China, the Partnership will examine the nexus of aquaculture expansion to increase seafood provision and carbon sequestration to conserve coastal biodiversity.
-
-{% hint style="info" %}
-[Overview](https://solvingfcb.org/case-study/china-case-study-overview/)
-{% endhint %}
-
-## Developing aquaculture for food, climate mitigation and biodiversity
-
-### Background
+## Background
 
 ![](https://solvingfcb.org/wp-content/uploads/Ecosystem_Benefits_of_Aquaculture_Infographic.jpg)
 
@@ -97,7 +90,7 @@ Percentage of total production in typical mariculture systems (a), and the propo
 
 ***
 
-### **Purpose of the study**
+## **Purpose of the study**
 
 **Answering the question: Whether seaweed & shellfish cultivation could help Solving-FCB ? If so, how?**
 
@@ -225,7 +218,7 @@ Quantify the impact of climate change on seaweed cultivation production / ecosys
   * Data sources:
     * Public sources (cmip data for future climate)
 
-### **Team**
+## **Team**
 
 | ![](../../.gitbook/assets/cao-l.webp) | ![](../../.gitbook/assets/liu-y.webp) | ![](../../.gitbook/assets/zeng-c.webp) |
 | ------------------------------------- | ------------------------------------- | -------------------------------------- |
