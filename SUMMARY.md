@@ -11,6 +11,10 @@
 * [Core Publications](publications/core-publications.md)
 * [Related Publications](publications/related-publications.md)
 
+***
+
+* [Related-Publications Updated](related-publications-updated.md)
+
 ## Presentations
 
 * [All Presentations](presentations/all-presentations.md)
