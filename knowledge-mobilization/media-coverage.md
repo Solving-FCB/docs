@@ -6,16 +6,27 @@ icon: tv
 
 ### 2025
 
-* Jun 09. [Race to the bottom? The dangers of deep-sea mining. France24](https://www.france24.com/en/tv-shows/the-debate/20250609-race-to-the-bottom-the-dangers-of-deep-sea-mining). (Debate)
-* May 21. [Sind Pläne für Tiefseebergbau ökonomisch sinnvoll?](https://www.ndr.de/nachrichten/info/Sind-Plaene-fuer-Tiefseebergbau-oekonomisch-sinnvoll,audio1875872.html) Ndr.de.
+* Jun 26. **Sumaila, UR**. [What next for the High Seas Treaty as entry into force nears?](https://www.eco-business.com/news/what-next-for-the-high-seas-treaty-as-entry-into-force-nears/) Eco-Business.
+* June 24. **Sumaila, UR**. [What next for the High Seas Treaty as entry into force nears?](https://dialogue.earth/en/ocean/what-next-for-the-high-seas-treaty-as-entry-into-force-nears/) Dialogue Earth.
+* Jun 18. **Sumaila, UR**. [Fisheries minister calls for indigenous knowledge](https://thebftonline.com/2025/06/18/fisheries-minister-calls-for-indigenous-knowledge/). The Business & Financial Times.
+* June 13. **Sumaila, UR**. [Ocean crisis demands a new kind of science](https://www.scidev.net/global/opinions/ocean-crisis-demands-a-new-kind-of-science/), SciDevNet.
+* June 12. **Sumaila, UR**. [Ghana champions indigenous knowledge in ocean governance at UN Conference](https://www.gbcghanaonline.com/general/ghana-fisheries-ocean/2025/), GBC Ghana Online.
+* June 12. **Sumaila, UR**. [MoFA holds side event at UN Ocean Conference](https://gna.org.gh/2025/06/mofa-holds-side-event-at-un-ocean-conference/), Ghana News Agency.
+* June 11. **Sumaila, UR**. [Small-Scale Fisheries Must Be Placed at Very Centre of Global Policy Conversations, Speaker Tells Nice Panel](https://press.un.org/en/2025/sea2224.doc.htm), United Nations.
+* June 10. **Sumaila, UR**. ['It just makes so much sense:' UBC economics expert continues push for high seas 'bank' to protect fish](https://www.pressreader.com/canada/cape-breton-post/20250610/281663965960608), Cape Breton Post.
+* June 10. **Sumaila, UR**. [UBC economics professor pushes for high seas \`bank' to protect fish stocks](https://www.pressreader.com/canada/cape-breton-post/20250610/281663965960608), The Province.
+* Jun 09. **Sumaila, UR**. [Race to the bottom? The dangers of deep-sea mining. France24](https://www.france24.com/en/tv-shows/the-debate/20250609-race-to-the-bottom-the-dangers-of-deep-sea-mining). (Debate)
+* June 9. **Sumaila, UR**. [UK under pressure to step up marine protections](https://www.pressreader.com/uk/western-daily-press/20250609/281560886743127), Western Daily Press.
+* June 9. **Sumaila, UR**. [UK under pressure to step up marine protections](https://www.pressreader.com/uk/manchester-evening-news/20250609/282475714777292), Manchester Evening News.
+* May 21. **Sumaila, UR**. [Sind Pläne für Tiefseebergbau ökonomisch sinnvoll?](https://www.ndr.de/nachrichten/info/Sind-Plaene-fuer-Tiefseebergbau-oekonomisch-sinnvoll,audio1875872.html) Ndr.de.
 * Mar 31. [Paris hosts SOS Ocean summit as seas face unprecedented threats](https://www.youtube.com/watch?v=-ccwipurYzs). FRANCE24
-* Mar 20. [Part 5: Migration by Land and by Sea](https://foreignpolicy.com/podcasts/the-catch/part-5-migration-by-land-and-by-sea/). Foreign Policy Podcast.
-* Mar 10. [Our Blue Planet: Defining Boundaries for a Thriving Ocean](https://earthcommission.org/news/our-blue-planet-defining-boundaries-for-a-thriving-ocean/). Future Earth.
-* Feb 18. [Rashid Sumaila y Thor Sigfússon, expertos internacionales en recursos marinos, entregan su mirada sobre la industria salmonera en Chile](https://www.paiscircular.cl/medio-ambiente/rashid-sumaila-y-thor-sigfusson-expertos-internacionales-en-recursos-marinos-entregan-su-mirada-sobre-la-industria-salmonera-chilena/). País Circular.
-* Feb 18. [Rashid Sumaila | Minería submarina | Congreso Futuro 2025](https://www.youtube.com/watch?v=5qxtm08VYeI) (Youtube)
-* Feb 14. [African researchers look beyond 2030 for healthy, productive marine ecosystem](https://tribuneonlineng.com/african-researchers-look-beyond-2030-for-healthy-productive-marine-ecosystem/). TribuneOnline.ng.
-* Feb 8. [Research Agency Trains Postgraduate Students on Climate Biodiversity](https://von.gov.ng/council-trains-postgraduate-students-on-climate-biodiversity-in-west-africa/). VON.gov.ng.
-* Jan 15. [WTO fish subsidy negotiations may not reach deal until at least 2026, analysts warn](https://www.seafoodsource.com/news/supply-trade/wto-fish-subsidy-negotiations-may-not-reach-deal-until-at-least-2026-analysts-warn). Seafood Source.
+* Mar 20. **Sumaila, UR.** [Part 5: Migration by Land and by Sea](https://foreignpolicy.com/podcasts/the-catch/part-5-migration-by-land-and-by-sea/). Foreign Policy Podcast.
+* Mar 10. **Sumaila, UR.** [Our Blue Planet: Defining Boundaries for a Thriving Ocean](https://earthcommission.org/news/our-blue-planet-defining-boundaries-for-a-thriving-ocean/). Future Earth.
+* Feb 18. **Sumaila, UR.** [Rashid Sumaila y Thor Sigfússon, expertos internacionales en recursos marinos, entregan su mirada sobre la industria salmonera en Chile](https://www.paiscircular.cl/medio-ambiente/rashid-sumaila-y-thor-sigfusson-expertos-internacionales-en-recursos-marinos-entregan-su-mirada-sobre-la-industria-salmonera-chilena/). País Circular.
+* Feb 18. **Sumaila, UR.** [Rashid Sumaila | Minería submarina | Congreso Futuro 2025](https://www.youtube.com/watch?v=5qxtm08VYeI) (Youtube)
+* Feb 14. **Sumaila, UR.** [African researchers look beyond 2030 for healthy, productive marine ecosystem](https://tribuneonlineng.com/african-researchers-look-beyond-2030-for-healthy-productive-marine-ecosystem/). TribuneOnline.ng.
+* Feb 8. **Sumaila, UR.** [Research Agency Trains Postgraduate Students on Climate Biodiversity](https://von.gov.ng/council-trains-postgraduate-students-on-climate-biodiversity-in-west-africa/). VON.gov.ng.
+* Jan 15. **Sumaila, UR.** [WTO fish subsidy negotiations may not reach deal until at least 2026, analysts warn](https://www.seafoodsource.com/news/supply-trade/wto-fish-subsidy-negotiations-may-not-reach-deal-until-at-least-2026-analysts-warn). Seafood Source.
 
 ### **2024**
 
