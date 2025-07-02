@@ -4,14 +4,16 @@
 
 ## Overview
 
-***
-
 * [Summary of Outputs](outputs.md)
 
 ## Publications
 
 * [Core Publications](publications/core-publications.md)
 * [Related Publications](publications/related-publications.md)
+
+***
+
+* [Related-Publications Updated](related-publications-updated.md)
 
 ## Presentations
 
@@ -91,12 +93,12 @@
 
 ## Case Studies
 
-* [🇨🇳 China](case-studies/china/README.md)
+* [China](case-studies/china/README.md)
   * [Case Study Overview](case-studies/china/case-study-overview.md)
-* [🇨🇦 Canada](case-studies/china.md)
-* [🇨🇷 Costa Rica](case-studies/costa-rica.md)
-* [🌍 Ghana & Nigeria](case-studies/ghana-and-nigeria.md)
-* [🇳🇱 Netherlands](case-studies/netherlands.md)
+* [Canada](case-studies/china.md)
+* [Costa Rica](case-studies/costa-rica.md)
+* [Ghana & Nigeria](case-studies/ghana-and-nigeria.md)
+* [Netherlands](case-studies/netherlands.md)
 
 ## Knowledge Mobilization
 
