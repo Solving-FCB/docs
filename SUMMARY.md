@@ -104,12 +104,9 @@
 
 * [Overview](knowledge-mobilization/overview.md)
 * [Media Coverage](knowledge-mobilization/media-coverage.md)
-
-***
-
-* [Photo Galleries](images.md)
-* [Video Gallery](video.md)
-* [Interviews/Podcasts](audio.md)
+* [Photo Galleries](knowledge-mobilization/images.md)
+* [Video Gallery](knowledge-mobilization/video.md)
+* [Interviews/Podcasts](knowledge-mobilization/audio.md)
 
 ## Other
 

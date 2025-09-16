@@ -5,20 +5,6 @@ description: >-
   biodiversity.
 cover: https://solvingfcb.org/wp-content/uploads/china-thumb.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # China
