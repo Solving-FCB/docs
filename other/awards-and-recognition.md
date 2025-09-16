@@ -4,6 +4,7 @@ icon: file-certificate
 
 # Awards and Recognition
 
+* Sep 2025. Dr. William Cheung named Fellow of the Royal Society of Canada.
 * Feb 2025. Rashid Sumaila awarded King Charles III Coronation Medal. Nominated by Joyce Murray.&#x20;
 * Jul 2024. William Cheung [receives UBC Alumni Achievement Award](https://solvingfcb.org/awards/william-cheung-wins-ubc-alumni-achievement-award/).&#x20;
 * Jun 2024. William Cheung received Discovery Grant for “Fish and fisheries under marine extremes and compound events: responses, resilience and solution options.”&#x20;

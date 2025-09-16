@@ -107,6 +107,7 @@
 * [Photo Galleries](knowledge-mobilization/images.md)
 * [Video Gallery](knowledge-mobilization/video.md)
 * [Interviews/Podcasts](knowledge-mobilization/audio.md)
+* [Web Articles](knowledge-mobilization/web-articles.md)
 
 ## Other
 
